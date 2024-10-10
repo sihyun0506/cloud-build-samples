@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, case!")
+  fmt.Println("Hello, cases!")
 }
